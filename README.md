@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annb3l
 - 👀 I’m interested in ... software dev & AI research
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ... everything
 - 📫 How to reach me ... on here!
 - 😄 Pronouns: ... she/her
